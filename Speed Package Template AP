@@ -1,0 +1,49 @@
+{
+    "device_props": {
+        "wirelessMIREnable": "1",
+        "wirelessMIRProfileTable":  [
+            {
+                "wirelessMIRProfileNumber": "0",
+                "wirelessMIRProfileDescription": "default",
+                "wirelessDLMIR": "1000000",
+                "wirelessULMIR": "1000000"
+            },
+            {
+                "wirelessMIRProfileNumber": "1",
+                "wirelessMIRProfileDescription": "100 x 100",
+                "wirelessDLMIR": "110000",
+                "wirelessULMIR": "110000"
+            },
+            {
+                "wirelessMIRProfileNumber": "2",
+                "wirelessMIRProfileDescription": "50 x 10",
+                "wirelessDLMIR": "50000",
+                "wirelessULMIR": "10000"
+            },
+            {
+                "wirelessMIRProfileNumber": "3",
+                "wirelessMIRProfileDescription": "20 x 10",
+                "wirelessDLMIR": "20000",
+                "wirelessULMIR": "10000"
+            },
+            {
+                "wirelessMIRProfileNumber": "4",
+                "wirelessMIRProfileDescription": "15 x 8",
+                "wirelessDLMIR": "15000",
+                "wirelessULMIR": "8000"
+            },
+            {
+                "wirelessMIRProfileNumber": "5",
+                "wirelessMIRProfileDescription": "10 x 5",
+                "wirelessDLMIR": "10000",
+                "wirelessULMIR": "5000"
+            },
+            {
+                "wirelessMIRProfileNumber": "15",
+                "wirelessMIRProfileDescription": "Suspend",
+                "wirelessDLMIR": "1000",
+                "wirelessULMIR": "1000"
+            }
+        ]
+    }
+}
