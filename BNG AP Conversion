@@ -1,0 +1,12 @@
+{
+	"device_props": {
+		"dhcpOption82RemoteIDType":	"0",
+		"dhcpOption82": "1",
+        	"dhcpOption82CircuitIDType": "3",
+		"mgmtVLANEnable": "1",
+        	"mgmtVLANVID": "98",
+        	"mgmtVLANVP": "0",
+		"networkBridgeIPAddressMode": "2",
+		"networkSTP": "1"
+	}
+}
