@@ -1,0 +1,9 @@
+{
+	"device_props": {
+		"mgmtVLANEnable":	"1",
+		"mgmtVLANVID":	"98",
+		"mgmtVLANVP":	"0",
+		"networkMode":	"2",
+		"networkWanIPAddressMode":	"2"	
+	}
+}
